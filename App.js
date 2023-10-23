@@ -92,7 +92,7 @@ const styles = StyleSheet.create({
     alignItems:'flex-end',
   },
   resultText:{
-    fontSize:40,
+    fontSize:39,
   },
   inputContainer:{
     flex:1,
